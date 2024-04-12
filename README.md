@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hepnerg
 - 👀 I’m interested in microscope automation
 - 🌱 I’m currently learning python
-- ⚡ Fun fact: I competitive food-eating records
+- ⚡ Fun fact: I have competitive food-eating records
 
 <!---
 hepnerg/hepnerg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
